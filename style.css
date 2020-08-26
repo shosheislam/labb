@@ -1,0 +1,50 @@
+body {
+	background-color: #131616;
+	color: #555555;
+	font: 20px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+	}
+	.container {
+	width: 85%;
+	margin: auto;
+	overflow: hidden;
+	}
+	#main-header {
+	background-color: #002b26;
+	color:#fff;
+	}
+	#links {
+	background-color: #fff;
+	}
+	#links a {
+	color: #002b26;
+	padding-right: 17px;
+	}
+	#links li {
+	display: inline;
+	}
+	#view-port{
+	background-image: url('university.jpg');
+	background-position:left;
+	text-align: left;
+	padding-bottom: 120px;
+	margin: 120px;
+	}
+	#message-box {
+	float:left;
+	width: 50%;
+	box-sizing: border-box;
+	color: #fff;
+	}
+	#sidewall {
+	float:right;
+	width:40%;
+	color: black;
+	box-sizing: border-box;;
+	}
+	#main-footer {
+	text-align: center;
+	padding: 30px;
+	margin-top: 80px;
+	}
